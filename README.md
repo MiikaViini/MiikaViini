@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Miika! I'm former truckdriver, musician and entrepreuner.
-- 👀 I’m interested in learning, programming and developing in general. Also i like to play videogames on my freetime.
-- 🌱 I’m currently learning software developing @ Hive Helsinki. Current project is about creating own shell interpreter.
-- :email: Feel free to contact me via LinkedIn!
+Greetings,
+
+My name is Miika and I come from a diverse background that includes experience as a truck driver, musician, and entrepreneur. Currently, I am pursuing my passion for learning, programming, and development at Hive Helsinki, where I am studying software development.
+
+My current project is creating my own POSIX-compliant shell interpreter, which is both challenging and exciting. During my free time, I enjoy playing video games and expanding my knowledge of different programming languages and tools.
+
+I am always eager to connect with like-minded individuals who share a similar interest in programming and development. I am open to collaborating on exciting projects and contributing to the community. If you would like to connect or learn more about my work, please feel free to reach out to me on LinkedIn.
 #
 
 
